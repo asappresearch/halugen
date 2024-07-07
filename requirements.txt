@@ -1,0 +1,6 @@
+peft==0.7.1
+transformers==4.37.2
+scikit-learn==1.2.1
+torch==2.1.0+cu118
+openai==0.27.8
+pandas==1.5.3

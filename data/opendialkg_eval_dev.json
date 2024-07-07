@@ -1,0 +1,1021 @@
+[
+	{
+		"inthash": "10",
+		"index": 9010,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nZack Ward starred in Restoration. Restoration has genre HorrorRestoration has genre Horror",
+		"input": "[Human]: I have been a fan of Zack Ward since back when he was a kid in Christmas Story. Can you recommend a more recent movie he starred in?  [Assistant]: Zack starred in Restoration with James Bressack great movie  [Human]: James Bressack is a great actor also. What genre is the film Restoration? [Assistant]: It is a Horror Film very scary  [Human]: I bet it is like World War Z. I could use a good scare tonight. I will check it out, thank you.  ",
+		"system_output": "You're welcome! Enjoy the movie and the scares!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "23",
+		"index": 9023,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nBeatrice Sparks is a/an Writer. Writer has example: Tess GerritsenTess Gerritsen wrote VanishVanish is written by Tess Gerritsen",
+		"input": "[Human]: Do you have any Beatrice Sparks books? [Assistant]: Yes, there are some and Go Ask Alice is a popular book by Beatrice Sparks . Have you read it? [Human]: No I haven't read it. I heard she was influenced by Tess Gerritsen. what books have Tess Gerritsen wrote? ",
+		"system_output": "Tess Gerritsen has written several books, including \"Vanish.\" Would you like to know more about it?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "26",
+		"index": 9026,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nSania Mirza : `Sport played`: Tennis",
+		"input": "[Human]: Do you know Sania Mirza? [Assistant]: Yeah, I use to go to high school with her. She's not bad at tennis. Are you a fan? [Human]: Who has she played with? [Assistant]: Lots of people including Serena and Maria. She was India's 1 in 2013. Do you play tennis? [Human]: No but I do like to watch it. What's the next big match? ",
+		"system_output": "The next big tennis event is the French Open, starting in late May. Will you be watching it?",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "31",
+		"index": 9031,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAnne-Marie is a/an Singer. Singer has example: Taylor SwiftTaylor Swift starred in Valentine's Day (Romantic comedy Film). Valentine's Day (Romantic comedy Film) is starring Jennifer Garner",
+		"input": "[Human]: Do you like any of the music by Anne-Marie? I'm kind of torn on whether I would consider her a great singer like some do. [Assistant]: She's had a lot of hits.  I think Taylor Swift is a better singer however. [Human]: I have to agree. She's very talented as a singer. Did you know she dabbles in acting now? [Assistant]: I think she was in Valentine's Day, is that right? [Human]: Yep! That also stars Jennifer Garner and is produced by Rob Reiner. I like Garner okay, but I'm not a fan of Renier's. ",
+		"system_output": "It's interesting to see how artists can be versatile in their careers, both in music and acting.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "32",
+		"index": 9032,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nMax Brooks wrote World War Z: An Oral History of the Zombie War",
+		"input": "[Human]: Could you tell me anything about Max Brooks? [Assistant]: Oh yes. He seems to write a lot of books about zombies, Like World War Z and The Zombie Survival Guide: Complete Protection from the Living Dead.  [Human]: Oh, I love zombies! When was World War Z released? [Assistant]: I do, too.They are definitely to die for! Ha! The book was released in 2006. [Human]: Ha, Ha! I would really like to read it, can you add it to my list please? ",
+		"system_output": "Sure, I've added World War Z to your reading list. Enjoy the zombie tales!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "35",
+		"index": 9035,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nSpider-Man 2 is written by Stan LeeStan Lee wrote Thor (Science Fiction Film). Thor (Science Fiction Film) is written by Jack KirbyThor (Science Fiction Film) is written by Stan Lee. Stan Lee wrote X-Men 2",
+		"input": "[Human]: Do you know any movies like Spider-Man 2? [Assistant]: Yes, Spider-Man was written by Stan Lee. It's a great action adventure film. Perhaps you would like The Amazing Spiderman or The incredible Hulk, also written by Stan Lee. [Human]: I saw Thor and I loved it, very entertaining! ",
+		"system_output": "I'm glad you enjoyed Thor! You might also like X-Men 2, which has a similar action-packed style.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "43",
+		"index": 9043,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChris Paul : `Award Won`: NBA Rookie of the Year Award",
+		"input": "[Human]: Can you tell me what sport Chris Paul plays? [Assistant]: Cris Paul plays Basketball [Human]: Has he won any awards? [Assistant]: Yes he won the NBA Rookie of the Year Award [Human]: For what team did he play?",
+		"system_output": "Chris Paul played for the New Orleans Hornets when he won the Rookie of the Year Award.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "46",
+		"index": 9046,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Hunger Games: Mockingjay - Part 1 is starring Jennifer Lawrence. Jennifer Lawrence starred in Like CrazyJennifer Lawrence starred in X-Men: ApocalypseX-Men: Apocalypse is starring Jennifer Lawrence. Jennifer Lawrence is a/an Celebrity",
+		"input": "[Human]: Could you recommend any movies similar to Mockingjay Part 1 [Assistant]: Have you seen X men?  [Human]: No is that similar to Mockingjay.  I want a similar movie.  [Assistant]: It's a Thriller like Mockingjay 1, also Equalizer and the Woman in Black [Human]: Is Jennifer Lawrence in it? ",
+		"system_output": "Yes, Jennifer Lawrence stars in X-Men: Apocalypse, which is similar in genre to Mockingjay Part 1.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "49",
+		"index": 9049,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDrew Brees : `Sport played`: American footballAmerican football : `~Subject`: Wildcats. Wildcats is starring Woody HarrelsonWoody Harrelson starred in Zombieland",
+		"input": "[Human]: What do you think about Drew Brees? [Assistant]: I think he's a good football player and quarterback. [Human]: It makes me think about the movie Wildcats starring Woody Harrelson.  Thats a great football movie.",
+		"system_output": "Yes, Wildcats is a classic! Woody Harrelson has been in some great films, like Zombieland.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "64",
+		"index": 9064,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Art of Racing in the Rain is written by Garth SteinGarth Stein is a/an Writer",
+		"input": "[Human]: I like The Art of Racing in the Rain [Assistant]: The Art of Racing in the Rain is written by Garth Stein. It was released in 2006 and is in the Fiction genre. Have you read any of his other books? [Human]: Is Garth Stein A writer?",
+		"system_output": "Yes, Garth Stein is a writer, known for \"The Art of Racing in the Rain\" among other works.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "65",
+		"index": 9065,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nTerminator 3: Rise of the Machines is starring Nick Stahl",
+		"input": "[Human]: What do you know about Terminator 3: Rise of the Machines",
+		"system_output": "Terminator 3: Rise of the Machines stars Nick Stahl, among others. Would you like to know more about the plot or cast?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "69",
+		"index": 9069,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nWilliam Golding wrote Lord of the Flies",
+		"input": "[Human]: Could you recommend books by William Golding? [Assistant]: Yes, he wrote Lord of the Flies, do you like it because it's speculative fiction? [Human]: Yes! Do you know of any other books that are speculative fiction? [Assistant]: Sure, The Fifth Elephant and The Confusion are examples. Would you like others? [Human]: Those are great! I will read The Fifth Elephant. Thanks! ",
+		"system_output": "You're welcome! Enjoy your reading! If you need more recommendations, feel free to ask.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "84",
+		"index": 9084,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nHome Alone is written by John Hughes. John Hughes directed The Breakfast Club",
+		"input": "[Human]: Do you have a recommendation for a movie like Home Alone? [Assistant]: If you enjoy the work of John Hughes, I would recommend Sixteen Candles and The Breakfast Club. They are oldies but goodies. Have you seen any of these? [Human]: I have not. Who is in The Breakfast Club? [Assistant]: Two of my favorite stars are Ally Sheedy and Emilio Estevez. They were great in the film! [Human]: I do enjoy Emilio Estevez' work. That genre is that? ",
+		"system_output": "The Breakfast Club is a coming-of-age comedy-drama, a classic of the 80s teen genre.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "85",
+		"index": 9085,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nGeorge Cruikshank wrote Oliver Twist. Oliver Twist is written by Philip Horne",
+		"input": "[Human]: Do you have any author recommendations similar to author George Cruikshank? [Assistant]: I would recommend Philip Horne. Since he wrote Oliver Twist with George. Do you know him? [Human]: No, please tell me more about his works [Assistant]: I think that is the only work he has done so far. It's a Speculative fiction. He is more of a teacher in College. He is still teaching. Have you read that book? [Human]: May be I will give it a try. Thanks for the information! ",
+		"system_output": "You're welcome! If you have any more questions or need further recommendations, feel free to ask.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "102",
+		"index": 9102,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nPaul McGuigan directed Wicker ParkWicker Park has genre Thriller",
+		"input": "[Human]: Do you know what films Paul McGuigan has directed? [Assistant]: Sure! He has  directed Wicker Park, as well as Victor Frankenstein.  Do you like the director himself, of a specific genre he creates?  [Human]: I like psychological thrillers like Wicker Park more than science fiction. ",
+		"system_output": "I understand. Psychological thrillers can be quite gripping. Have you seen any other movies similar to Wicker Park?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "105",
+		"index": 9105,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDrew Brees is a/an Athlete",
+		"input": "[Human]: Do you have any information on Drew Brees?",
+		"system_output": "Yes, Drew Brees is a well-known athlete, specifically a professional American football player.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "106",
+		"index": 9106,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Lion King has genre Drama. Drama has examples: The Karate KidThe Karate Kid has genre Romance Film",
+		"input": "[Human]: I like the movie The Lion King.  What other kids' movies like that can you recommend? [Assistant]: You might like The Karate Kid. It was inspirational. The Lion King was a musical. Do you like them? [Human]: Yes, the family likes the songs.  But Karate Kid might be a good one.  What genre does it fall under? ",
+		"system_output": "The Karate Kid is a Romance Film with dramatic elements. It's quite different but still very engaging!",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "107",
+		"index": 9107,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChuck Palahniuk wrote Tell-AllTell-All : `~Next in series`: Pygmy. Pygmy has genre SatirePygmy has genre Satire",
+		"input": "[Human]: I like books by Chuck Palahniuk, can you recommend any? [Assistant]: What a great author! Chuck Palahniuk wrote Tell-All and Pygmy. Have you read either of those? [Human]: I haven't read that, but I see that Pygmy is a satire book. ",
+		"system_output": "Yes, Pygmy is a satire. If you enjoy that genre, you might find it an interesting read.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "115",
+		"index": 9115,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCasino Royale has genre Spy filmSpy film has examples: True LiesTrue Lies has genre Spy film. Spy film has examples: The Interpreter",
+		"input": "[Human]: Do you know anything about the movie Casino Royale? [Assistant]: Certainly, Casino Royale stars Daniel Craig and is a Spy film. Do you like Spy films? [Human]: I love spy films!  True Lies and Thunderball are two of my favorite movies.  Do you have any other movies to suggest? ",
+		"system_output": "You might enjoy \"The Interpreter,\" another example of a spy film. Have you seen it?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "128",
+		"index": 9128,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCasino Royale is written by Ian Fleming",
+		"input": "[Human]: Could you recommend the movie Casino Royale? [Assistant]: I could, it was written by Robert Wade and Ian Fleming great writers. [Human]: Is it a James Bond movie? [Assistant]: Yes, one of the many. Starring Daniel Craig as James Bond [Human]: Okay!  Sign me up! ",
+		"system_output": "Great! Enjoy the thrilling world of James Bond in Casino Royale.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful",
+		"author_label": false
+	},
+	{
+		"inthash": "144",
+		"index": 9144,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nLuigi Pistilli starred in The Good, the Bad and the Ugly",
+		"input": "[Human]: Do you know about Luigi Pistilli [Assistant]: Yes, he starred in The Great Silence, but his biggest movie was probably The Good, the Bad and the Ugly. [Human]: Great. Can you tell me about the movie The Good, the Bad and the Ugly. [Assistant]: Sergio Leone wrote and directed it, and it is one of the most famous Spaghetti westerns.  [Human]: Ok what is the genre of this movie? ",
+		"system_output": "The genre of \"The Good, the Bad and the Ugly\" is Spaghetti Western.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "145",
+		"index": 9145,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nKansas City Chiefs : `~Team`: National Football League",
+		"input": "[Human]: What do you know about Kansas City Chiefs? [Assistant]: I know they are an NFL American football team in the AFC West division. Their current quarterback is Patrick Mahomes, he has been great.  [Human]: What sports do you like to watch? [Assistant]: I love watching football! I am a huge Green Bay Packers fan! I also enjoy baseball. How about you? [Human]: I love football my favorite team is the Redskins ",
+		"system_output": "That's cool! The Washington Football Team has a rich history. Do you have a favorite player from the team?",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "150",
+		"index": 9150,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nJ.K. Rowling wrote The SilkwormThe Silkworm is written by Robert GalbraithRobert Galbraith wrote The Silkworm. The Silkworm was released 2014",
+		"input": "[Human]: Can you recommend any books by the author J. K. Rowling? [Assistant]: She wrote The Tales of Beedle the Bard, The Silkworm, and of course, the Harry Potter series. Have you read any books from that series? [Human]: I've read alot of the Harry Potter series.  I'm surprised that she wrote anything besides Harry Potter.  lol  What can you tell me about The Silkworm? ",
+		"system_output": "\"The Silkworm\" is a crime fiction novel, the second book in the Cormoran Strike series, written under the pseudonym Robert Galbraith.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "153",
+		"index": 9153,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDrew Brees : `Position(s)`: QuarterbackQuarterback : `~Position(s)`: Tom BradyTom Brady : `Game`: New England Patriots",
+		"input": "[Human]: Do you like Drew Brees? [Assistant]: I know he is a quarterback from Texas other than that... [Human]: I don't know much about football, but i know Tom Brady is a quarterback too. ",
+		"system_output": "Yes, Tom Brady is also a well-known quarterback, famous for his time with the New England Patriots.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "158",
+		"index": 9158,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nWatchmen is starring Stephen McHattie. Stephen McHattie starred in Gray Lady Down",
+		"input": "[Human]: Could you recommend a movie like Watchmen? [Assistant]: Sure The Watchmen starred Stephen McHattie and  also Starred in Gray Lady. [Human]: Gray Lady, that sounds familiar. What type of movie is this? [Assistant]: Gray Lady is a suspense thriller movie. Do you like Thrillers? [Human]: Love them! I will have to check it out. ",
+		"system_output": "Great! Enjoy the movie, and if you have any more questions, feel free to ask!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "159",
+		"index": 9159,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nLife of Pi has genre Novel. Novel has examples: Wuthering HeightsWuthering Heights is written by Emily Bront\u00eb",
+		"input": "[Human]: Could you please recommend a book similar to Life of Pi?  [Assistant]: Sure, Wuthering Heights, The Phantom of the Opera and Winters Tale are all similar to The Life of Pi. [Human]: Was Wuthering Heights written by Emily Bronte?  [Assistant]: Yes it was, Have you read Wuthering Heights? [Human]: I have not. Could you tell me is this novel a romance?   ",
+		"system_output": "Yes, Wuthering Heights is a romance novel with gothic elements. Would you be interested in reading it?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "161",
+		"index": 9161,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nSe\u00e1n Barrett wrote Il nome della rosa. Il nome della rosa was released 1980",
+		"input": "[Human]: Do you know the actor Se\u00e1n Barrett ? [Assistant]: I really don't know much about him.  But found he wrote Il nome della rosa. Il nome della rosa was released 1980 [Human]: I thought it's only an actor.  Did he wrote anything else ? [Assistant]: I haven't found anything else he has written.  He is an english actor. [Human]: Okay, thanks for information. I will try to find out more about this book. ",
+		"system_output": "You're welcome! If you have any more questions, feel free to ask.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "166",
+		"index": 9166,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nJustin Rose : `Sport played`: GolfGolf has examples: Happy GilmoreHappy Gilmore is written by Adam Sandler",
+		"input": "[Human]: Do you know Justin Rose? [Assistant]: I don't know too much about him, I don't follow Golf too much. It has never really captured my attention. Are you a Golf fan? [Human]: I am not a fan of golf but I like a few golf movies such as Caddyshack, Happy Gilmore, and From The Rough. ",
+		"system_output": "Happy Gilmore is a classic! Do you have a favorite scene from that movie?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "171",
+		"index": 9171,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nKesha : `~has_person`: NashvilleNashville : `~Place of death`: Johnny CashJohnny Cash wrote Walk the Line",
+		"input": "[Human]: do you like Kesha? [Assistant]: I do like some of Kesha's music, Your love Is my Drug, is the one I really like. Do you like any of her music? [Human]: yes i think she is very talented. i also like johnny cash who died in nashville. do you like his music? ",
+		"system_output": "Yes, Johnny Cash was a legendary artist. \"Walk the Line\" is one of his classics. Do you have a favorite song?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "173",
+		"index": 9173,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nJohn G. Avildsen directed The Karate Kid. The Karate Kid is starring Peter JasonThe Karate Kid has genre Teen filmTeen film has examples: You Got Served",
+		"input": "[Human]: Do you know of John G. Avildsen?  I think he directed the Rocky movies. [Assistant]: Yes, I sure do. He also directed the Karate Kid. Have you seen that? [Human]: Yes, that is a great movie.  The genre is  genre Teen film/drama and sport.  It's been a long since I have seen it.  Going to put on my watch list.  ",
+		"system_output": "That sounds like a good plan. It's definitely a classic worth rewatching. Enjoy the movie!",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "183",
+		"index": 9183,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nEmma Donoghue wrote The WonderThe Wonder was released 20162016 was the year that released You'll Grow Out of It",
+		"input": "[Human]: Do you know what book Emma Donoghue wrote? [Assistant]: Sure, Emma Donoghue wrote such books as the Room, Slammerkin, and The Wonder. Ever heard of any of these? [Human]: Yes the wonder was released in 2016 its great ",
+		"system_output": "I'm glad you enjoyed it! Have you read any other books by Emma Donoghue?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "188",
+		"index": 9188,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nWonder is written by R.J. PalacioR.J. Palacio wrote The Julian chapterThe Julian chapter was released 2014. 2014 was the year that released Annihilation",
+		"input": "[Human]: Can you tell me who wrote the book Wonder [Assistant]: Wonder is written by R.J. Palacio  [Human]: Right, the same guy who wrote The Julian chapter.  Can you give me any more titles by him? ",
+		"system_output": "Actually, R.J. Palacio is a female author, and those are her well-known works related to \"Wonder\".",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "189",
+		"index": 9189,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nGone Girl has genre Thriller. Thriller has examples: Graduation DayGraduation Day is starring Vanna WhiteVanna White starred in Graduation Day. Graduation Day is starring Linnea Quigley",
+		"input": "[Human]: I like the movie Gone Girl.  Can you recommend something similar? [Assistant]: Sure, Gone Girl is a Thriller, other Thrillers include Graduation Day and Das Boot. Have you heard of those? [Human]: No, I haven't. Can you tell me more about Graduation Day? ",
+		"system_output": "Graduation Day is a thriller starring Vanna White and Linnea Quigley. It's a classic of the genre.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "191",
+		"index": 9191,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nBecca Fitzpatrick wrote SilenceSilence was released 20122012 has genre Drama",
+		"input": "[Human]: I heard that Becca Fitzpatrick writings was on the New York best selling list. Do you have any information on what she wrote? [Assistant]: She is a very talented writer. You might want to try one of these books she wrote: Silence or Hush, Hush. Both are wonderful.  [Human]: That sounds interesting, was it recently released, and did it go to film? ",
+		"system_output": "Silence was released in 2012, and as far as I know, it hasn't been adapted into a film.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful",
+		"author_label": false
+	},
+	{
+		"inthash": "198",
+		"index": 9198,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nNicholas Sparks wrote The RescueThe Rescue is written by Nicholas SparksNicholas Sparks wrote A Walk to Remember",
+		"input": "[Human]: I like Nicholas Sparks books! [Assistant]: Have you read The Notebook or The rescue yet? [Human]: Yes I loved the book, along with the movie from The Notebook. I have not read The rescue, but Nicholas Spakrs wrote that book as well , correct? [Assistant]: Yes, he did. I was released in 2000. Would you like to know about any other books he's written? [Human]: Okay thanks! Yes I would love to know about the books he wrote. ",
+		"system_output": "Another popular book by Nicholas Sparks is \"A Walk to Remember.\" Have you read it or seen the film adaptation?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "200",
+		"index": 9200,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nMinnesota Vikings : `~Team coached`: Mike ZimmerMike Zimmer : `Coaching history`: Minnesota VikingsMinnesota Vikings : `~Team coached`: Mike Zimmer",
+		"input": "[Human]: Do you like the Minnesota Vikings? [Assistant]: Yes I do the Minnesota Vikings are coached by Mike Zimmer and Leslie Frazier did you know that? [Human]: Is that the only team Mike Zimmer has coached?",
+		"system_output": "No, Mike Zimmer has also coached other teams, but he's well-known for his time with the Vikings.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination",
+		"author_label": false
+	},
+	{
+		"inthash": "203",
+		"index": 9203,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nWonder is written by R.J. Palacio",
+		"input": "[Human]: Could you recommend a good young adult genre book?",
+		"system_output": "Sure, \"Wonder\" by R.J. Palacio is a highly recommended young adult book.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "220",
+		"index": 9220,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Lord of the Rings: The Fellowship of the Ring is starring Orlando BloomOrlando Bloom starred in TroyTroy was released 2004",
+		"input": "[Human]: Do you like the Lord of The Rings: The Fellowship of the Ring? [Assistant]: Yes! I like Orlando Bloom. Have you seen Pirates of the Caribbean? [Human]: Yes, I liked his performance in the movie Troy ",
+		"system_output": "Troy is quite an epic film. Orlando Bloom did a great job in it. Have you seen any other movies with him?",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "224",
+		"index": 9224,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Memory Keeper's Daughter is written by Kim Edwards",
+		"input": "[Human]: Do you like The Memory Keeper's Daughter? [Assistant]: I have read that book. It is by Kim Edwards. It was just ok for me. Do you like reading novels? [Human]: I do like reading Novels. What are some others have you read?",
+		"system_output": "I've read a variety of novels across different genres. What type of novels do you enjoy?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "225",
+		"index": 9225,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nGeorge Miller directed Mad Max: Fury RoadMad Max: Fury Road is starring Tom Hardy",
+		"input": "[Human]: Do you like George Miller [Assistant]: You mean the man who directed the movie Mad Max: Fury Road? [Human]: Yes starring Tom Hardy and Charlie Theron. What is the genre?",
+		"system_output": "Mad Max: Fury Road is an action-packed post-apocalyptic film.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "232",
+		"index": 9232,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChristina Perri : `~Composer`: A Thousand YearsA Thousand Years : `Composer`: Christina Perri. Christina Perri : `~Composer`: Jar of HeartsChristina Perri : `~Composer`: Jar of Hearts",
+		"input": "[Human]: I think I have heard of Christina Perri but I can't recall her songs. Do you know any lyrics from one of her songs? [Assistant]: Chrstina Perri wrote A Thousand Years. Her music falls in the Pop/Pop rock genre. Do you like listening to these type of music? [Human]: I listen to all genre but country. Did she also compose Jar of Hearts?",
+		"system_output": "Yes, Christina Perri also composed \"Jar of Hearts.\" It's another one of her well-known songs.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "233",
+		"index": 9233,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChiaki Kuriyama starred in Kill Bill: Vol. 1",
+		"input": "[Human]: Could you recommend some movies staring Chiaki Kuriyama? [Assistant]: Yes, of course. The starred in the Kill Bill series and The Sky Crawlers. Have you seen those? [Human]: I forgot that they were in Kill Bill. That was a good movie. Who else was in the film? [Assistant]: Vivica Fox  and David Carradine were both in that one. It was directed by Quentin Tarantino. Do you like his work? [Human]: I think he's a great director. Thanks for the help today.  ",
+		"system_output": "You're welcome! If you have any more questions or need further recommendations, feel free to ask. Enjoy watching!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "237",
+		"index": 9237,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCalvin Harris : `~Composer`: Yeah 3x",
+		"input": "[Human]: Do you know Calvin Harris? [Assistant]: Yes he is a composer/DJ.  Some of his work is  Where Have You Been and Yeah x3.  Do you know his work? [Human]: No. I don't know him. Do you like any of his work?. I can give a try. [Assistant]: His record label is Ultra Music.  I don't know a lot of his work but am curious.  Are you going to listen to some of his stuff? [Human]: Yes. I am thinking of listening some of his works.  Are you going to listen any of his songs?",
+		"system_output": "As a chatbot, I can't listen to music, but I can help you find his songs to enjoy!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "244",
+		"index": 9244,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCharles Duhigg wrote The Power of HabitThe Power of Habit was released 20112011 was the year that released \u4eba\u751f\u304c\u3068\u304d\u3081\u304f\u7247\u3065\u3051\u306e\u9b54\u6cd5. \u4eba\u751f\u304c\u3068\u304d\u3081\u304f\u7247\u3065\u3051\u306e\u9b54\u6cd5 is written by Marie Kond\u014d",
+		"input": "[Human]: Do you have information on Charles Duhigg a journalist?  [Assistant]: Yes, Charles Duhigg is the writer who wrote The Power of Habit. [Human]: Is he from New Mexico? When was it released? ",
+		"system_output": "Yes, Charles Duhigg is from New Mexico. The Power of Habit was released in 2011.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "248",
+		"index": 9248,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAngela's Ashes: A Memoir is written by Frank McCourtFrank McCourt wrote Teacher Man",
+		"input": "[Human]: Do you have books like Angela's Ashes: A Memoir that I would like? [Assistant]: Angela's Ashes: A Memoir was written  by Frank McCourt. Do you like this author? [Human]: Frank McCourt is a favorite of mine. Let me know of any other books by him. [Assistant]: Frank McCourt also wrote Teacher Man. Have you read it? [Human]: I have not. Any cool facts about Frank McCourt?",
+		"system_output": "Frank McCourt started writing after retiring from teaching, which inspired much of his work, including Teacher Man.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "249",
+		"index": 9249,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nIn the Woods is written by Tana FrenchTana French wrote In the WoodsIn the Woods has genre Mystery. Mystery has examples: Skellig",
+		"input": "[Human]: Do you have any recommendations that are similar to In The Woods? [Assistant]: In the Woods was written by Tana French and it is a Mystery. Do you like because is written by her or its genre? [Human]: Because of the genre.",
+		"system_output": "If you enjoy mysteries, you might like \"Skellig\" which is another example of the genre.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "251",
+		"index": 9251,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nLiar Liar has genre Slapstick. Slapstick has examples: CaddyshackSlapstick has examples: The Nutty ProfessorThe Nutty Professor has genre Slapstick. Slapstick has examples: George of the Jungle",
+		"input": "[Human]: I thought Liar Liar was a really funny movie!  Could you recommend another movie like it? [Assistant]: It was good, wasn't it? You may enjoy Caddyshack! [Human]: Yes, slapstick is one of my favorite genres.  I have already seen Caddyshack.  Could you recommend a couple more? ",
+		"system_output": "Sure! You might like \"The Nutty Professor\" and \"George of the Jungle\" if you enjoy slapstick comedy.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "254",
+		"index": 9254,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nRobert Stromberg directed Maleficent",
+		"input": "[Human]: Could you recommend any movies directed by Robert Stromberg? [Assistant]: Robert Stromberg directed Maleficent.  Its a great one! [Human]: Who starred in that film? [Assistant]: Angelina Jolie, Sam Riley and Sharito Copley were all in that movie. [Human]: Ok, any other recommendations? ",
+		"system_output": "Since Robert Stromberg only directed 'Maleficent', I'd recommend films with a similar fantasy genre. How about 'Alice in Wonderland'?",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination",
+		"author_label": false
+	},
+	{
+		"inthash": "257",
+		"index": 9257,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nFiona Stafford wrote Emma. Emma has genre Romance novelRomance novel has examples: Emma. Emma has genre ComedyComedy has examples: One Crazy Summer",
+		"input": "[Human]: I like fiona stafford, can you recommend anything? [Assistant]: Fiona Stafford wrote Emma. It's a romance novel. Are you into that genre? [Human]: Any other books by her that might fall under comedy?  I'm in the mood for something  light. ",
+		"system_output": "Emma also has elements of comedy, so it might be the perfect fit for a light read.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "260",
+		"index": 9260,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nPaper Towns is written by John GreenJohn Green wrote Looking for Alaska. Looking for Alaska has genre Fiction",
+		"input": "[Human]: I like Paper Towns.  Do you know who wrote it? [Assistant]: Yes. John Green wrote that book. Would you like to learn about other stories he wrote? [Human]: Sure, that would be great. [Assistant]: He also wrote Will Grayson, the Fault in Our Stars, and Looking for Alaska. Are you familiar with these titles? [Human]: No, but Looking for Alaska sounds interesting.  Do you know the genre? ",
+		"system_output": "Looking for Alaska is a work of fiction. Would you like a brief summary?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "264",
+		"index": 9264,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAdele : `Award Won`: Grammy Award for Best New ArtistGrammy Award for Best New Artist : `~Award Won`: Alicia Keys",
+		"input": "[Human]: I think Adele is an amazing artist! Do you like her? [Assistant]: Yes, I agree. I love the sound of her voice. She's won several awards including Grammys for Best New Artist and Best Music Video. [Human]: She deserves them! Do you have a favorite song of hers? [Assistant]: There are so many. Hello is one of my favorites. She has a soulful voice like Tracy Chapman and Norah Jones. [Human]: She does! Do you like Alicia Keys? She's also previously won the Grammy Aware for Best New Artist ",
+		"system_output": "Yes, Alicia Keys is incredibly talented as well. Her music has a powerful impact.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "266",
+		"index": 9266,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nMahendra Singh Dhoni starred in Hook Ya CrookHook Ya Crook is starring Mahendra Singh DhoniMahendra Singh Dhoni : `Country of nationality`: India",
+		"input": "[Human]: Do you know anything about Mahendra Singh Dhoni? [Assistant]: He is a cricket player and was in Hook Ya Crook, have you seen it? [Human]: Oh wow, no I haven't seen Hook Ya Crook. What is it about? ",
+		"system_output": "\"Hook Ya Crook\" is a movie that features Dhoni. It's a blend of cricket and entertainment. Would you like to watch it?",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination",
+		"author_label": false
+	},
+	{
+		"inthash": "267",
+		"index": 9267,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nRunning with Scissors is written by Augusten Burroughs. Augusten Burroughs wrote Magical Thinking: True StoriesAugusten Burroughs wrote A Wolf at the TableA Wolf at the Table was released 2008",
+		"input": "[Human]: Do you have anything similar to Running with Scissors? I loved this book! [Assistant]: This book was written by Augusten Burroughs who also wrote Magical Thinking: True Stories, A Wolf at the Table and The Yellow Wallpaper. [Human]: I am curious about A Wolf at the Table. Can you tell me more about it? ",
+		"system_output": "\"A Wolf at the Table\" is a memoir by Augusten Burroughs, released in 2008, focusing on his turbulent childhood.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "269",
+		"index": 9269,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAriana Grande has a celebrity friend Taylor SwiftTaylor Swift : `~Lyricist`: MeanMean : `Lyricist`: Taylor Swift. Taylor Swift : `Romantic relationship (with celebrities)`: Joe Jonas",
+		"input": "[Human]: Do you like Ariana Grande? She's sure been in the tabloids lately! [Assistant]: Yes, I love her pop and hip hop music.Do you know she won MTV Video Music Award for Best Pop Video?  [Human]: I didn't know! That's amazing for her. She reminds me a lot of Taylor Swift. I love her song Mean. ",
+		"system_output": "\"Mean\" is a great song with powerful lyrics. It really showcases Taylor Swift's songwriting talent, doesn't it?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "278",
+		"index": 9278,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCatherine Belsey wrote A Midsummer Night's Dream. A Midsummer Night's Dream is written by Paul WerstineA Midsummer Night's Dream is written by William ShakespeareWilliam Shakespeare wrote Romeo and Juliet. Romeo and Juliet has genre Play",
+		"input": "[Human]: Do you know of Catherine Belsey and could you recommend any of her work? [Assistant]: She is a very famous author. She wrote A Midsummer Night's Dream. Have you read it? [Human]: Ah yes.  I also know of the one written by William Shakespeare!",
+		"system_output": "Actually, A Midsummer Night's Dream was written by William Shakespeare, not Catherine Belsey. She has written critical works on Shakespeare.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful",
+		"author_label": false
+	},
+	{
+		"inthash": "280",
+		"index": 9280,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChristina Perri : `~Composer`: Jar of HeartsJar of Hearts : `Composer`: Christina PerriChristina Perri : `~Composer`: A Thousand Years",
+		"input": "[Human]: I like Christina Perri's music. Do you? [Assistant]: Yes, I do! What's your favorite song by her? [Human]: My favorite song is Jar of Hearts, what about you? ",
+		"system_output": "I really like \"A Thousand Years.\" It has such a beautiful melody.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "284",
+		"index": 9284,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nKurt Vonnegut Jr. wrote SlapstickSlapstick has examples: Old School",
+		"input": "[Human]: I remember loving Kurt Vonnegut Jr.'s books in high school, but can't remember any names. Can you tell me a couple of his best books? [Assistant]: 2 I'd recommend are Cat's Cradle, and Slapstick, totally different in spectrum.  Are you a parent and do you like comedies?  [Human]: I'm not a parent, but I love comedies like Old School! ",
+		"system_output": "Then you might enjoy the humor in \"Slapstick,\" as it shares a comedic style with movies like \"Old School.\"",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "286",
+		"index": 9286,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDallas Cowboys : `~Team coached`: Jason GarrettJason Garrett : `Team coached`: Dallas Cowboys",
+		"input": "[Human]: do you like The Dallas Cowboys? [Assistant]: Yes they are great I ike the coach Jason Garrett [Human]: I didn't know he was the coach.",
+		"system_output": "Yes, Jason Garrett has been associated with the Dallas Cowboys for quite some time.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "300",
+		"index": 9300,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nArizona Cardinals : `~Team`: 2008 NFL season",
+		"input": "[Human]: What do you think about the Arizona Cardinals? [Assistant]: I'm not a fan. I am a patriots fan. [Human]: They look as strong as ever, not as explosive as years past, but strong nonetheless [Assistant]: I agree. Strong, but not untouchable. [Human]: I will say, just when you think they're out, they win the Super Bowl. ",
+		"system_output": "That's the beauty of the game; it's full of surprises!",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "311",
+		"index": 9311,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Bourne Legacy is starring Jeremy RennerJeremy Renner starred in Thor (Science Fiction Film)Thor (Science Fiction Film) is starring Jeremy Renner",
+		"input": "[Human]: Do you like The Bourne Legacy? [Assistant]: I do. I loved Jeremy Renner in that movie. Do you like him? [Human]: Is he also in Thor? I have seen him from many movies but the one in Thor caught my eyes the most.",
+		"system_output": "Yes, Jeremy Renner played Hawkeye in Thor. He's quite memorable in action roles, isn't he?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "325",
+		"index": 9325,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nEdgar Wright wrote The World's End. The World's End has genre Comedy",
+		"input": "[Human]: What can you tell me about Edgar Wright? [Assistant]: Edgar Wright wrote many books like The World's End and Scott Pilgrim vs. the World. Are you interested only in his writing? [Human]: What has been adapted to film? [Assistant]: The World's End was adapted to film and produced by Edgar under the comedy genre. Do you like comedies? [Human]: yes",
+		"system_output": "Great! Have you seen The World's End or any other comedies directed by Edgar Wright?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "328",
+		"index": 9328,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nChris Weitz directed American Pie. American Pie is starring Christina MilianAmerican Pie is starring Eugene LevyEugene Levy wrote A Mighty Wind. A Mighty Wind has genre Mockumentary",
+		"input": "[Human]: Do you have any movies directed by Chris Weitz? [Assistant]: Yes, he directed the comedy American Pie as well as The Golden Compass. [Human]: American Pie? Really. Eugene Levy will forever be an icon because of his role. Christina Milian was pretty good in it too. ",
+		"system_output": "Absolutely, both Eugene Levy and Christina Milian contributed memorable performances in American Pie.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "330",
+		"index": 9330,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nNeil Burger directed The Illusionist. The Illusionist is starring Rufus SewellThe Illusionist has genre Thriller",
+		"input": "[Human]: Could you recommend a movie directed by Neil Burger? [Assistant]: Sure, I can recommend you The Illusionist. Rufus Sewell  and Eddie Marsan are starring in it [Human]: Is that a thriller? I loved Jake Wood.  Is he in it? ",
+		"system_output": "Yes, The Illusionist is a thriller, but Jake Wood isn't in it. Would you like another recommendation?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "338",
+		"index": 9338,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nBirdman or (The Unexpected Virtue of Ignorance) is starring Naomi WattsNaomi Watts starred in Funny Games (Thriller Film). Funny Games (Thriller Film) is starring Brady CorbetFunny Games (Thriller Film) is starring Siobhan Fallon Hogan",
+		"input": "[Human]: I like the movie Birdman or (The Unexpected Virtue of Ignorance). Is there anything similar I can watch? [Assistant]: Can I ask what did you like about it? Did you like the Drama? The director or maybe you want to see something similar with great actors like Naomi Watts or Emma Stone?  [Human]: Dramas I love for sure! [Assistant]: Then I would definetely recommend The Painted Veil, good historical drama starring Naomi Watts. What do you think about it?  [Human]: Sure. She's a good actress. I liked her in Funny Games with Brady Corbet too. I think I will give it a try! ",
+		"system_output": "Great choice! If you enjoy intense performances, you might also appreciate Siobhan Fallon Hogan's role in Funny Games.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "341",
+		"index": 9341,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDivergent is starring Kate WinsletKate Winslet starred in TitanicTitanic is starring Kate Winslet. Kate Winslet starred in Sense and Sensibility",
+		"input": "[Human]: Do you like Divergent the movie? [Assistant]: Yes, I like the movie and Kate Winslet. I like most young-adult fiction. Do you want to hear more about that genre? [Human]: Yes I do. Did Kate Winslett also star in Titanic? ",
+		"system_output": "Yes, Kate Winslet starred in Titanic as well. It's another film where she delivers a memorable performance.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "342",
+		"index": 9342,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nHenry Cavill starred in Whatever Works",
+		"input": "[Human]: Do you know any information on Henry Cavill? [Assistant]: He starred in Whatever Works and Tristan & Isolde, both which are very good. [Human]: What other films has he starred in? [Assistant]: How about The Count of Monte Cristo? [Human]: I've heard of it but never seen it. What movie genre is that? ",
+		"system_output": "The Count of Monte Cristo is an adventure drama film.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "351",
+		"index": 9351,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nMadonna starred in Swept AwaySwept Away is starring MadonnaMadonna : `~Producer`: Falling Free",
+		"input": "[Human]: Do you like Madonna? [Assistant]: I liked her in Who's That Girl and Swept away, more than her songs.  What about you? [Human]: I liked Swept Away pretty well. I like her earlier music more than her later stuff. ",
+		"system_output": "Her early music definitely has a lot of iconic hits. Any favorite songs or albums from that era?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "353",
+		"index": 9353,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAriana Grande is a/an Songwriter",
+		"input": "[Human]: Do you like Ariana Grande? [Assistant]: Sure, I enjoy her singing and songwriting. [Human]: I like Dangerous Woman. What's you favorite song by her? [Assistant]: Probably No Tears Left to Cry. [Human]: That's a good one, too. I saw her on the Disney New Year's Eve Special. Did you see it? ",
+		"system_output": "No, I didn't see it, but I'm glad you enjoyed her performance!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "354",
+		"index": 9354,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDave Pelzer is a/an AuthorAuthor has example: \u00c9mile Zola\u00c9mile Zola wrote Germinal. Germinal has genre Novel",
+		"input": "[Human]: Do you have any information on the author, Dave Pelzer? [Assistant]: Yes! He is an author from Daly City who wrote A Child Called \"It\": One Child's Courage to Survive. Are you familiar with this? [Human]: I am not! What type of book is that? [Assistant]: The book is a biography. You may also be interested in similar authors like Emile Zola and Zoe Heller.  [Human]: Can you recommend anything by Emile Zola? ",
+		"system_output": "Certainly! You might want to read \"Germinal\" by \u00c9mile Zola. It's a novel that's highly regarded.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "355",
+		"index": 9355,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nLeBron James : `~Sponsorship`: Nike, Inc.",
+		"input": "[Human]: I LOVE Lebron James. What do you think about him? [Assistant]: I actually like him, too!  Isn't he the spokesperson for Nike, now? [Human]: No, I think it's Spirit Soda company [Assistant]: Oh, I thought it was Nike.  Phil Knight, the leader of Nike, should have snatched up LeBron. [Human]: Oh ok, well defintely could have made millions if, he had made Lebron his spokesman, the coco-cola company got to him first! ",
+		"system_output": "Actually, LeBron James has a sponsorship deal with Nike, not Coca-Cola.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "362",
+		"index": 9362,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAmy Tan wrote The Joy Luck ClubThe Joy Luck Club has genre FictionFiction has examples: Wuthering Heights",
+		"input": "[Human]: Do you know Amy Tan? [Assistant]: Sure! She wrote the Joy Luck Club and The Hundred Secret Senses. [Human]: Is that a fiction? Could you please tell me more?",
+		"system_output": "Yes, The Joy Luck Club is a work of fiction, which explores the relationships between Chinese-American women and their mothers.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "381",
+		"index": 9381,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Bell Jar is written by Sylvia PlathSylvia Plath wrote The Bell JarThe Bell Jar has genre Autobiography",
+		"input": "[Human]: I like the book the Bell Jar, who wrote it? [Assistant]: The Bell Jar is a children's literature and was written by Sylvia Plath. [Human]: Was it an autobiography? ",
+		"system_output": "Yes, \"The Bell Jar\" is considered an autobiographical novel by Sylvia Plath.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "386",
+		"index": 9386,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nVictoria Aveyard wrote Red QueenRed Queen is written by Victoria AveyardVictoria Aveyard wrote Red Queen. Red Queen was released 2015",
+		"input": "[Human]: I like to read Victoria Aveyard books. Could you give me a couple books by her? [Assistant]: Sure. Victoria Aveyard wrote: King's Cage, Red Queen, Queen Song and Glass Sword. To name a few. [Human]: I read Red Queen. Very good book. What year was this released? ",
+		"system_output": "Red Queen was released in 2015. Have you read any of the sequels yet?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "395",
+		"index": 9395,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nSeth Gordon starred in Horrible Bosses. Horrible Bosses is starring John Francis DaleyHorrible Bosses is written by Jonathan M. Goldstein",
+		"input": "[Human]: Do you know of any movies that were directed by Seth Gordon? [Assistant]: Yes Freakonomics and Horrible Bosses a very funny film [Human]: I'm in the dark about Horrible Bosses. Enlighten me please. [Assistant]: It stars John Daley it is a comedy about 3 men with basses that are so bad its funny.  [Human]: Hang on! Was this movie written by Jonathan M. Goldstein?",
+		"system_output": "Yes, Jonathan M. Goldstein co-wrote Horrible Bosses.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "399",
+		"index": 9399,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nLeonardo DiCaprio starred in The Aviator (Biographical Film) #6. The Aviator (Biographical Film) #6 is starring Martin ScorseseThe Aviator (Biographical Film) #6 is starring Kelli GarnerKelli Garner starred in The Aviator (Biographical Film) #6. The Aviator (Biographical Film) #6 is starring Matt Ross",
+		"input": "[Human]: I like Leonardo DiCaprio, he is one of my favorite actors. Besides Titanic, what other movies did he star in? [Assistant]: He starred in The Aviator and What's Eating Gilbert Grape and The wolf of Wall Street. Any of those sound good? [Human]: Really? I did not know that. I was told that Kelli Garner was in that movie too, as well as Frances Conroy. What type of film is The Aviator? ",
+		"system_output": "Yes, Kelli Garner and Frances Conroy are in it too. The Aviator is a biographical film. Would you like to watch it?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "404",
+		"index": 9404,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Secret Life of Walter Mitty is starring Adrian Martinez. Adrian Martinez starred in The Understudy",
+		"input": "[Human]: Do you know any movie similar to The Secret Life of Walter Mitty? [Assistant]: I do. The Understudy and The Promotion are good movies too. [Human]: Thanks. What is the genre of The Understudy? [Assistant]: The Understudy is a comedy starring Adrian Martinez. Do you like this film? [Human]: No, I have just watched only Piranha 3DD , What about his other movies? ",
+		"system_output": "Adrian Martinez also starred in \"The Secret Life of Walter Mitty,\" which is a more whimsical adventure film.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "409",
+		"index": 9409,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAtlas Shrugged is written by Ayn RandAyn Rand wrote We the Living",
+		"input": "[Human]: Is Atlas Shrugged a book? [Assistant]: Atlas Shrugged is a 1957 novel by Atlas Rand, and there is a movie also Atlas Shrugged is a 1957 novel by Ayn Rand   [Human]: Didn't Ayn Rand write We are the living as well? ",
+		"system_output": "Yes, Ayn Rand also wrote \"We the Living.\" It was her first novel, published in 1936.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "418",
+		"index": 9418,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nDerrick Rose : `Sport played`: BasketballBasketball has examples: Space Jam. Space Jam has genre AnimationSpace Jam is starring Larry Bird",
+		"input": "[Human]: Do you know anything about Derrick Rose? [Assistant]: Yes he plays basketball. He is a point guard for the Chicago Bulls.  [Human]: I don't know much about basketball other than the animated movie, Space Jam. ",
+		"system_output": "Space Jam is a classic! It combines animation with live-action and stars basketball legends like Larry Bird.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination",
+		"author_label": false
+	},
+	{
+		"inthash": "421",
+		"index": 9421,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nManny Pacquiao starred in Wam Bam Pac's The Man",
+		"input": "[Human]: Do you know who Manny Pacquiao is? [Assistant]: I think so. Did he star in Wam Bam Pac's The Man? [Human]: Yes I believe he did. He is also a professional boxer. Do you follow boxing at all? [Assistant]: Not much. But I believe he's a Welterweight, right? [Human]: I'm not entirely sure on that, but it sounds correct.  ",
+		"system_output": "He's had quite a successful career in boxing alongside his entertainment ventures.",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "425",
+		"index": 9425,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nStar Trek : `~Part of fictional universe`: Star Trek (Science Fiction Film)",
+		"input": "[Human]: Do you know what genre is the movie Star Trek?  [Assistant]: Star Trek is a Science fiction film, from Paramount Pictures [Human]: Thank you for the information. Who wrote this movie? [Assistant]: It was written by, Roberto Orci, Gene Roddenberry, and Alex Kurtzman. Would you like to know more about Star Trek? [Human]: Yes, please! I would like to know additional information about it. ",
+		"system_output": "Star Trek is a beloved franchise with multiple films and TV series, exploring themes of exploration and cultural diversity.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "438",
+		"index": 9438,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCasino Royale has genre Spy filmSpy film has examples: The World Is Not EnoughThe World Is Not Enough is starring Ulrich Thomsen. Ulrich Thomsen starred in Nightwatch (Psychological thriller Film) #21",
+		"input": "[Human]: Do you like Casino Royale? What is it about? [Assistant]: Casino Royale is a spy and action film. It was directed by Martin Campbell. The sequel to it is Die Another Day. Would you like to hear more about that? [Human]: Great, I love Spy movies! I just watched You Only Live Twice and The World Is Not Enough this weekend. ",
+		"system_output": "That's awesome! Did you have a favorite between those two?",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "443",
+		"index": 9443,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nA.I. Artificial Intelligence has genre Science Fiction",
+		"input": "[Human]: I like the movie A.I Artificial Intelligence, do you have any ones similar to it? [Assistant]: Do you like it because it's science fiction? [Human]: Yeah, I usually like sci-fi movies and futuristic stuff. ",
+		"system_output": "You might enjoy \"Blade Runner\" or \"Ex Machina,\" both are great sci-fi films with futuristic themes.",
+		"factual": [
+			1,
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "444",
+		"index": 9444,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Devil's Advocate is directed by Taylor Hackford",
+		"input": "[Human]: Do you know who directed The Devil's Advocate? [Assistant]: Taylor Hackford directed The Devil's Advocate. Did you know he also directed Blood In, Blood Out? [Human]: I didn't know that. Who starred in it? [Assistant]: Raymond Cruz, Jesse Borrego and Benjamin Bratt starred in this Drama [Human]: When was it released? ",
+		"system_output": "\"Blood In, Blood Out\" was released in 1993. Have you seen it?",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "449",
+		"index": 9449,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nMarked is written by P. C. Cast",
+		"input": "[Human]: Do you know who wrote the book Marked? [Assistant]: Yes, it was written by P. C. Cast. It's considered you adult fiction and vampire literature. Do you like fiction and vampire books? [Human]: I do. Can you recommend another book like it? [Assistant]: Sure. It's the 1st of a series.  You could read House of Night which is next. [Human]: Add them both to my Must Read list, please. ",
+		"system_output": "I've added \"Marked\" and \"House of Night\" to your Must Read list. Happy reading!",
+		"factual": [
+			1
+		],
+		"label": "faithful"
+	},
+	{
+		"inthash": "450",
+		"index": 9450,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nCan You Keep a Secret? is written by Sophie Kinsella. Sophie Kinsella wrote The Undomestic Goddess",
+		"input": "[Human]: I like reading different books, have you read Can You Keep a Secret? [Assistant]: I have it is written by Sophie Kinsella. Have you heard of her other book The Undomestic Goddess? [Human]: No i have not tell more about it please. [Assistant]: It was released in 2005 which was the same year another book Pushing Ice was released. [Human]: great do you know what genre it is? ",
+		"system_output": "The Undomestic Goddess is a romantic comedy novel.",
+		"factual": [
+			-1,
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "478",
+		"index": 9478,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nBetrayed: a House of Night Novel is written by P.C. CastP.C. Cast wrote Untamed: A House of Night NovelUntamed: A House of Night Novel is written by P.C. Cast",
+		"input": "[Human]: Do you know anything about a House of Night Novel? [Assistant]: Sure thing! That was written by P.C. Cast and Kristin Cast. It was released in 2007. [Human]: Is there any other book released in 2007 from P.C. Cast?",
+		"system_output": "Yes, \"Betrayed: A House of Night Novel\" was also released in 2007.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "480",
+		"index": 9480,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nBen Affleck directed Argo. Argo is written by Chris TerrioArgo has genre Historical fiction",
+		"input": "[Human]: I like Ben Affleck as an actor however I want to know if he made good movies as a director. What could you recommend? [Assistant]: Ben Affleck has direct a number of movies, but I really enjoyed Argo.  [Human]: Oh I like historical fiction. Was he also in the film? ",
+		"system_output": "Yes, Ben Affleck both directed and starred in Argo.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "484",
+		"index": 9484,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nAriana Grande is a/an SongwriterSongwriter has example: Whitney HoustonWhitney Houston : `Award Won`: Grammy Awards for Record of the Year",
+		"input": "[Human]: I like Ariana Grande. I think her songs are really good.  [Assistant]: I like Ariana Grande, she is a singer/songwriter and is friends with Miley Cyrus and Jessie J. [Human]: I think singers who actually write their own songs are just gifted. Whitney Houston is another one.  ",
+		"system_output": "Whitney Houston was indeed talented, but she didn't write most of her songs, unlike Ariana Grande.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "489",
+		"index": 9489,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nThe Shawshank Redemption is written by Frank Darabont. Frank Darabont directed The Majestic",
+		"input": "[Human]: I like the Shawshank Redemption. Do you know any movies like this? [Assistant]: Sure, you can try \"The Majestic\" [Human]: Okay, who stars in that movie? [Assistant]: The Majestic starring Matt Damon, James Whitmore and Hal Holbrook [Human]: Oh I like Matt Damon! What kind of movie is this genre wise? ",
+		"system_output": "\"The Majestic\" is a drama, similar in tone to \"The Shawshank Redemption.\"",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	},
+	{
+		"inthash": "498",
+		"index": 9498,
+		"grounding": "You are a chatbot. Your goal is to continue the conversation by responding to user's last utterance.\n\nYou have the following knowledge that can be used to generate your response:\n\nHayao Miyazaki directed Ponyo. Ponyo has genre Adventure FilmPonyo is written by Hayao MiyazakiHayao Miyazaki wrote Ponyo. Ponyo is starring Y\u00fbki Amami",
+		"input": "[Human]: Do you know of any movies directed by Hayao Miyazaki? [Assistant]: You might enjoy Ponyo that he directed. Are you a fan of family adventure films? [Human]: I am, I really like family adventure films, what else can you tell me about Ponyo? Who starred in it? ",
+		"system_output": "Y\u00fbki Amami is one of the stars in Ponyo. It's a charming adventure film for all ages.",
+		"factual": [
+			-1
+		],
+		"label": "hallucination"
+	}
+]
